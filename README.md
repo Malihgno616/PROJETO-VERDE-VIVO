@@ -9,31 +9,36 @@
 ## 🛍️ Categorias de Produtos
 
 ### Higiene Pessoal
-- Escovas de dente de bambu  
-- Desodorantes naturais  
-- Sabonetes e shampoos em barra  
+
+- Escovas de dente de bambu
+- Desodorantes naturais
+- Sabonetes e shampoos em barra
 
 ### Cozinha Sustentável
-- Panos reutilizáveis  
-- Sacolas ecológicas  
-- Canudos de inox ou bambu  
+
+- Panos reutilizáveis
+- Sacolas ecológicas
+- Canudos de inox ou bambu
 
 ### Moda e Acessórios
-- Roupas de algodão orgânico  
-- Mochilas feitas com material reciclado  
-- Bijuterias artesanais de materiais reaproveitados  
+
+- Roupas de algodão orgânico
+- Mochilas feitas com material reciclado
+- Bijuterias artesanais de materiais reaproveitados
 
 ### Casa e Decoração Eco-friendly
-- Velas naturais  
-- Plantas em vasos reciclados  
-- Utensílios de madeira ou fibra natural  
+
+- Velas naturais
+- Plantas em vasos reciclados
+- Utensílios de madeira ou fibra natural
 
 ### Pet Sustentável
-- Brinquedos recicláveis  
-- Rações naturais  
-- Camas e acessórios ecológicos  
 
-### Tecnologias 
+- Brinquedos recicláveis
+- Rações naturais
+- Camas e acessórios ecológicos
 
-- Back-End: Laravel, MySQL
+### Tecnologias
+
+- Back-End: Laravel, SQLite.;
 - Front-End: VueJS, CSS3, HTML5.
