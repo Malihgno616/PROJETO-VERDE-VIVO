@@ -5,7 +5,7 @@
         <h2 class="m-5 text-3xl text-center">Focamos em Produtos Sustentáveis</h2>
         <h3 class="m-3 text-2xl text-center">Preservando o <strong>Meio Ambiente</strong></h3>
     </div>
-    <div  style="background-image: url('{{ asset('img/img-fundo.jpg') }}'); background-color: #00000; mix-blend-mode: multiply;" class="bg-fixed bg-cover bg-center grid grid-cols-2 md:grid-cols-4 gap-3 p-10">
+    <div  style="background-image: url('{{ asset('img/img-fundo.jpg') }}'); background-color: #00000; mix-blend-mode: multiply;" class="animate__animated animate__fadeIn bg-fixed bg-cover bg-center grid grid-cols-2 md:grid-cols-4 gap-3 p-10">
       <div class="grid gap-4">
           <div>
               <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg" alt="">

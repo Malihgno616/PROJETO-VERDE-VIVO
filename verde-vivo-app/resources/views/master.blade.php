@@ -16,5 +16,6 @@
 <body class="h-full max-h-full">
     @include('layout.navbar')
     @include('components.cards')
+    @include('components.about')
     @include('layout.footer')
 
