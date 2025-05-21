@@ -40,5 +40,5 @@
 
 ### Tecnologias
 
-- Back-End: Laravel, SQLite.;
+- Back-End: Laravel (Funcionando no Ubuntu), SQLite.;
 - Front-End: VueJS, CSS3, HTML5.
